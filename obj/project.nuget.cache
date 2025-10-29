@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZjN+ZSkemU=",
+  "dgSpecHash": "k+XQy1vy3P0=",
   "success": true,
   "projectFilePath": "c:\\Tadi\\nUnitFramework\\FrameworkBuilding.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,9 @@
     "C:\\Users\\t.chitaunhike\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
     "C:\\Users\\t.chitaunhike\\.nuget\\packages\\nunit.analyzers\\4.4.0\\nunit.analyzers.4.4.0.nupkg.sha512",
     "C:\\Users\\t.chitaunhike\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\t.chitaunhike\\.nuget\\packages\\selenium.support\\4.38.0\\selenium.support.4.38.0.nupkg.sha512",
+    "C:\\Users\\t.chitaunhike\\.nuget\\packages\\selenium.webdriver\\4.38.0\\selenium.webdriver.4.38.0.nupkg.sha512",
+    "C:\\Users\\t.chitaunhike\\.nuget\\packages\\selenium.webdriver.chromedriver\\142.0.7444.5900\\selenium.webdriver.chromedriver.142.0.7444.5900.nupkg.sha512",
     "C:\\Users\\t.chitaunhike\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
